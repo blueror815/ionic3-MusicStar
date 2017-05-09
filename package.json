@@ -1,0 +1,41 @@
+{
+  "name": "startrack-ionic",
+  "description": "StarTrack-Ionic: An Ionic project",
+  "scripts": {
+    "clean": "ionic-app-scripts clean",
+    "build": "ionic-app-scripts build",
+    "ionic:build": "ionic-app-scripts build",
+    "ionic:serve": "ionic-app-scripts serve"
+  },
+  "dependencies": {
+    "@angular/common": "4.0.2",
+    "@angular/compiler": "4.0.2",
+    "@angular/compiler-cli": "4.0.2",
+    "@angular/core": "4.0.2",
+    "@angular/forms": "4.0.2",
+    "@angular/http": "4.0.2",
+    "@angular/platform-browser": "4.0.2",
+    "@angular/platform-browser-dynamic": "4.0.2",
+    "@angular/platform-server": "4.0.2",
+    "@ionic-native/camera": "^3.1.0",
+    "@ionic-native/core": "^3.1.0",
+    "@ionic-native/keyboard": "^3.1.0",
+    "@ionic-native/splash-screen": "^3.1.0",
+    "@ionic-native/status-bar": "^3.1.0",
+    "@ionic/storage": "2.0.1",
+    "howler": "^2.0.3",
+    "ionic-angular": "3.1.0",
+    "ionicons": "3.0.0",
+    "rxjs": "5.1.1",
+    "sw-toolbox": "3.6.0",
+    "zone.js": "0.8.4"
+  },
+  "devDependencies": {
+    "@angular/language-service": "4.0.2",
+    "@ionic/app-scripts": "nightly",
+    "@ionic/cli-plugin-cordova": "canary",
+    "@ionic/cli-plugin-ionic-angular": "canary",
+    "@types/howler": "^2.0.2",
+    "typescript": "2.3.0"
+  }
+}
